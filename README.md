@@ -1,4 +1,4 @@
 # MyOwnToken
-##License Declaration:
+## License Declaration:
 ''// SPDX-License-Identifier: MIT
 ''

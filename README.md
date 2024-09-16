@@ -67,11 +67,13 @@ Use burnTokens to decrease the token supply and deduct tokens from an account.
 
 ### Example Workflow
 1. Mint Tokens: Add 100 tokens to an account.
-```mintTokens(0x123..., 100);
+```
+mintTokens(0x123..., 100);
 ```
 
 2. Burn Tokens: Burn 50 tokens from an account.
-```burnTokens(0x123..., 50);
+```
+burnTokens(0x123..., 50);
 ```
 
 ## Help
